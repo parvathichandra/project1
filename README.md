@@ -5,7 +5,7 @@ This sample code helps get you started with a simple Python web service using
 AWS Lambda and Amazon API Gateway.
 
 hi, good morning, happy tuesday all
------------
+welcome to our family
 
 This sample includes:
 
